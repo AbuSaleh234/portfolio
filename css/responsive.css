@@ -1,0 +1,1498 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+
+	.menu ul li a {
+    	padding: 10px 22px;
+	}
+
+	.menu ul li:last-child a {
+    	padding: 9px 32px 12px 29px;
+    	border-radius: 53px;
+	}
+
+	.hero-overly {
+	    padding: 110px 0 30px;
+	}
+
+	.arusha-left .arusha-box02 {
+    	right: -30px;
+    	width: 88px;
+	}
+	
+	.arusha-right {
+		padding-left: 30px;
+	}
+
+	.arusha-right p {
+    	font-size: 17px;
+    	line-height: 18.6px;
+	}
+
+	.arusha-debates {
+		padding: 66px 0 110px;
+	}
+
+	.arusha-debates-box {
+    	width: 156px;
+    	left: -81px;
+    	bottom: 63px;
+	}
+
+	.the-november {
+    	padding: 54px 0 90px;
+	}
+
+	.november-border {
+    	margin-top: 68px;
+    	margin-bottom: 58px;
+	}
+
+	.the-november-left {
+	    padding-right: 25.5px;
+	}
+	.the-november-right {
+	    padding-left: 25.5px;
+	}
+
+	.debate-format-left {
+	    padding-right: 64px;
+	}
+
+	.debate-format-right {
+	    padding-left: 15px;
+	}
+
+	.debate-format-box02 {	    
+		right: 14px;
+	}
+
+	.why-the-debates {
+	    padding: 84px 0 90px;
+	}
+
+	.why-the-debates-left {
+	    padding-right: 47px;
+	}
+
+	.why-the-debates-left h2 {
+	    font-size: 43px;
+	    margin-bottom: 36px;
+	}
+
+	.why-the-debates-left p {
+	    font-size: 17px;
+	    margin-bottom: 10px;
+	}
+
+	.why-the-debates-right {
+	    padding: 0 15px 0 47px;
+	}
+
+	.why-the-debates-box {
+	    bottom: 56px;
+	    right: -25px;
+	    width: 116px;
+	}
+
+	.our-partners {
+    	padding: 65px 0 95px;
+    	background: #ffffff;
+	}
+
+	.our-partners h2 {
+	    font-size: 44px;
+	    margin-bottom: 60px;
+	}
+
+	.our-partners .main-content .owl-theme .custom-nav .owl-next {
+        right: -31px;
+    }
+
+    .footer-intrested-left h2 {
+    	font-size: 60px;
+    }
+
+    .arusha-experience-hero p {
+    	padding-right: 0;
+	}
+
+	.arusha-experience-hero-btm {
+		padding-bottom: 90px;
+	}
+
+	.arusha-experience-hero-btm-ctn span {
+		margin-bottom: 110px;
+	}
+
+	.arusha-experience-hero-btm-left {
+		padding-right: 35px;
+	}
+
+	.arusha-experience-hero-btm-left-box01 {
+    	bottom: 63px;
+    	left: -25px;
+    	width: 88px;
+	}
+
+	.logistics-for-excursion {
+		padding: 65px 0;
+	}
+
+	.logistics-for-excursion-left {
+    	padding-right: 10px;
+	}
+
+	.logistics-for-excursion-left p:first-of-type {
+		margin-bottom: 65px;
+	}
+
+	.logistics-right-main {
+	    padding-left: 95px;
+	}
+
+	.logistics-for-excursion-box01 {
+    position: absolute;
+        width: 110px;
+    left: -60px;
+    }
+
+    .logistics-for-excursion-box02 {
+        position: absolute;
+        width: 110px;
+        right: -25px;
+        bottom: 41px;
+    }
+
+    .correspondents-area {
+    	padding: 45px 0 65px;
+	}
+
+	.correspondents-left h2 {
+    	margin-bottom: 25px;
+	}
+
+	.experience02-post01 {
+		padding: 51px 40px 55px 35px;
+	}
+
+	.experience02-post02 {
+		padding: 45px 40px 60px 35px;
+		margin-top: 29px;
+	}
+	.experience02-post03 {
+		padding: 44px 40px 65px 35px;
+		margin-top: 29px;
+	}
+
+	.experience02-post-right p {
+    	padding-left: 60px;
+	}
+
+	.experience02-post-btm ul {
+    	margin-top: 28px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+	.header-area .logo a img {
+    	max-width: 200px;
+	}
+
+	.menu-area {
+   		align-items: center;
+	}
+	.menu {
+		display: none;
+	}
+
+	.humburger {
+    	display: block;
+	}
+
+	.mobile-menu {
+		width: 70%;
+	}
+	.mobile-logo a img {
+		max-width: 220px;
+	}
+
+	.humburger a {
+		padding: 5px;
+	}
+
+	.hero-overly {
+	    padding: 100px 0 30px;
+	}
+
+	.hero-section h1 {
+    	font-size: 60px;
+	}
+
+	.hero-section span {
+	    font-size: 24px;
+	}
+
+	.hero-section p {
+	    font-size: 30px;
+	    padding: 25px 0 25px;
+	}
+
+	.hero-section h3 {
+	    margin-bottom: 45px;
+	}
+
+	.arusha-city {
+    	padding: 45px 0 55px;
+	}
+
+	.arusha-city h2 {
+	    font-size: 44px;
+	    margin-bottom: 24px;
+	}
+
+	.arusha-city span {
+	    width: 66px;
+	    height: 5px;
+	    margin-bottom: 40px;
+	}
+
+	.arusha-left .arusha-box01 {
+	    top: 30px;
+	    left: -27px;
+	    width: 50px;
+	}
+
+	.arusha-left .arusha-box02 {
+	    bottom: 35px;
+	    right: -21px;
+	    width: 66px;
+	}
+
+	.arusha-right {
+		padding-top: 0;
+		padding-left: 0;
+	}
+
+	.arusha-right p {
+    	font-size: 18px;
+    	line-height: 19.6px;
+	}
+
+	.arusha-debates {
+    	padding: 60px 0 85px;
+	}
+
+	.arusha-debates h2 {
+		font-size: 44px;
+	}
+
+	.arusha-debates span {
+		margin-bottom: 50px;
+	}
+
+	.arusha-debates-lft p {
+	    font-size: 18px;
+	    line-height: 21.6px;
+	}
+
+	.arusha-debates-lft a {
+    	font-size: 16px;
+    	border-radius: 60px;
+    	padding: 14px 45px 15px;
+	}
+
+	.arusha-debates-lft p:last-of-type {
+    	margin-top: 10px;
+    	margin-bottom: 44px;
+	}
+
+	.arusha-debates-lft {
+    	padding-right: 50px;
+	}
+
+	.arusha-debates-box {
+    	width: 104px;
+    	left: -44px;
+    	bottom: 41px;
+	}
+
+	.the-november {
+    	padding: 54px 0 68px;
+	}
+
+	.the-november h2 {
+		font-size: 44px;
+		margin-bottom: 25px;
+	}
+
+	.the-november span {
+		margin-bottom: 48px;
+		height: 5px;
+	}
+
+	.november-top-img {
+    	margin-bottom: 47px;
+	}
+
+	.november-top-img-box01 {
+    	top: 42px;
+    	left: -15px;
+    	height: 48px;
+
+	}
+
+	.november-top-img-box02 {
+		width: 77px;
+		height: auto;
+		right: 56px;
+	}
+
+	.november-border {
+    	margin-top: 60px;
+    	margin-bottom: 50px;
+	}
+
+	.the-november p {
+    	font-size: 18px;
+	}
+
+	.the-november-left {
+	    padding-right: 0;
+	}
+	.the-november-right {
+	    padding-left: 0;
+	    margin-top: 15px;
+	}
+
+	.debate-format-left {
+		padding-right: 30px;
+	}
+
+	.debate-format-right {
+    	padding-left: 0;
+	}
+
+	.debate-format-box02 {
+    	width: 70px;
+    	top: 87px;
+    	right: 0px;
+	}
+
+	.debate-format-right h2 {
+	    margin-bottom: 10px;
+	}
+
+	.debate-format-right .debate-format-pera:first-of-type {
+		margin-bottom: 15px;
+		margin-top: 10px;
+	}
+
+	.debate-format-right p {
+	    font-size: 18px;
+	    line-height: 22px;
+	}
+
+	.debate-format-right .debate-format-pera h4 {
+		margin-right: 15px;
+	}
+
+	.why-the-debates {
+	    padding: 59px 0 63px;
+	}
+
+	.why-the-debates-left {
+	    padding-right: 15px;
+	}
+
+	.why-the-debates-left h2 {
+	    font-size: 33px;
+	    margin-bottom: 18px;
+	}
+
+	.why-the-debates-left p {
+	    font-size: 18px;
+	    margin-bottom: 7px;
+	    line-height: 21px;
+	}
+
+	.why-the-debates-right {
+	    padding: 0 15px 0 15px;
+	}
+
+	.why-the-debates-box {
+	    bottom: 56px;
+	    right: -25px;
+	    width: 116px;
+	}
+
+	.our-partners {
+    	padding: 45px 0 60px;
+    	background: #ffffff;
+	}
+
+	.our-partners h2 {
+	    font-size: 38px;
+	    margin-bottom: 40px;
+	}
+
+	.our-partners .our-partners .main-content .owl-theme .custom-nav .owl-next {
+	    right: 33px!important;
+	}
+
+	.footer-intrested-overly {
+		padding: 65px 0 70px;
+	}
+
+	.footer-intrested-left h2 {
+    	font-size: 46px;
+    }
+
+    .footer-intrested-right a {
+	    font-size: 18px;
+	    padding: 20px 34px 21px 33px;
+	    border-radius: 67px;
+	}
+
+	.contactus-form {
+    	padding: 65px 0 75px;
+	}
+
+	.contactus-form h2 {
+	    font-size: 44px;
+	    margin-bottom: 24px;
+	}
+
+	.contactus-form-left {
+	    padding-right: 44px;
+	}
+
+	.contactus-form-box01 {
+	    width: 55px;
+	    left: -33px;
+	    top: 30px;
+	}
+
+	.contactus-form-box02 {
+	    width: 98px;
+	    right: -15px;
+	    top: 475px;
+	}
+
+	.contactus-form-right {
+	    padding-left: 44px;
+	}
+
+	.contactus-form-right form textarea {
+	    height: 231px;
+	    margin-bottom: 54px;
+
+	}
+
+	.contactus-form-right form button {
+    	padding: 17px 88px 20px 83px;
+	}
+
+	.contactus-form-right form input {
+    	padding: 15px 0 16px 24px;
+    	margin-bottom: 20px;
+	}
+
+	.contactus-footer {
+    	padding: 60px 0 95px;
+	}
+
+	.contactus-footer a {
+    	padding: 19px 58px 20px 56px;
+	}
+
+	.contactus-footer h2 {
+    	font-size: 64px;
+    	margin-bottom: 10px;
+	}
+
+	.contactus-footer p {
+	    margin-bottom: 35px;
+	}
+
+	/*
+========================
+Events page start
+========================
+*/
+
+	.events-area {
+	    padding: 65px 0 80px;
+	}
+
+	.events-area h4 {
+		margin-bottom: 50px;
+	}
+
+	.events-area ul {
+    	margin-bottom: 54px;
+	}
+
+	.our-partners-form {
+    	padding: 65px 0 75px;
+	}
+
+	.our-partners-form h2 {
+	    font-size: 44px;
+	    margin-bottom: 24px;
+	}
+
+	.our-partners-form-left {
+	    padding-right: 15px;
+	}
+
+	.our-partners-form-box01 {
+	    width: 55px;
+	    left: -20px;
+	    top: 30px;
+	}
+
+	.our-partners-form-box02 {
+	    width: 80px;
+	    right: -15px;
+	    top: 236px;
+	}
+
+	.our-partners-form-right {
+	    padding-left: 30px;
+	}
+
+	.our-partners-form-right form textarea {
+	    height: 231px;
+	    margin-bottom: 54px;
+
+	}
+
+	.our-partners-form-right form button {
+    	padding: 17px 88px 20px 83px;
+	}
+
+	.our-partners-form-right form input {
+    	padding: 15px 0 16px 24px;
+    	margin-bottom: 20px;
+	}
+
+	.arusha-experience-hero {
+    	padding: 60px 0 65px;
+	}
+
+	.arusha-experience-hero-btm {
+		padding-bottom: 55px;
+	}
+
+	.arusha-experience-hero-btm-ctn span {
+		margin-bottom: 65px;
+		margin-top: 35px;
+		height: 6px;
+	}
+
+	.arusha-experience-hero-btm-left {
+		padding-right: 14px;
+	}
+
+	.arusha-experience-hero-btm-left-box01 {
+    	bottom: 50px;
+    	left: -30px;
+    	width: 65px;
+	}
+
+	.arusha-experience-hero-btm-right h2 {
+		font-size: 38px;
+		margin-bottom: 18px;
+		
+	}
+
+	.arusha-experience-hero-btm-ctn a img {
+    	margin-bottom: 35px;
+	}
+
+	.arusha-experience-hero-btm-ctn p:first-of-type {
+    	margin-bottom: 15px;
+	}
+
+	.logistics-for-excursion {
+		padding: 55px 0;
+	}
+
+	.logistics-for-excursion-left {
+    	padding-right: 10px;
+	}
+
+	.logistics-for-excursion-left p:first-of-type {
+		margin-bottom: 45px;
+	}
+
+	.logistics-right-main {
+	    padding-left: 80px;
+	}
+
+	.logistics-for-excursion-box01 {
+    position: absolute;
+        width: 110px;
+    left: -60px;
+    top: 162px;
+    }
+
+    .logistics-for-excursion-box02 {
+        position: absolute;
+        width: 110px;
+        right: -35px;
+        bottom: 41px;
+    }
+
+    .correspondents-area {
+    	padding: 35px 0 50px;
+	}
+
+	.correspondents-left h2 {
+    	margin-bottom: 25px;
+	}
+
+	.experience-hero02 {
+		padding: 120px 0 66px;
+	}
+
+	.experience-hero02 h2 {
+    	font-size: 28px;
+    	margin-bottom: 15px;
+	}
+
+	.experience-hero02 .input-area {
+	    padding: 14px 0 14px 21px;
+	    border-radius: 32px;
+	    width: 60%;
+	    white-space: nowrap;
+	    margin-right: 25px;
+	}
+
+	.experience-hero02 button {
+		margin-right: 14px;
+	}
+
+	.experience-hero02 input {
+	    border: none;
+	    width: 80%;
+	}
+
+	.experience02-post {
+    	padding: 35px 0 50px;
+	}
+
+	.experience02-post01 {
+		padding: 20px 15px 20px 15px;
+		display: block;
+	}
+
+	.experience02-post02 {
+		padding: 20px 15px 20px 15px;
+		margin-top: 20px;
+		display: block;
+	}
+	.experience02-post03 {
+		padding: 20px 15px 20px 15px;
+		margin-top: 20px;
+		display: block;
+	}
+
+	.experience02-post-left h2 br {
+	    display: none;
+	}
+
+	.experience02-post-right p {
+    	padding-left: 0;
+    	margin-top: 30px;
+	}
+
+	.experience02-post-btm ul {
+    	margin-top: 28px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 767px) {
+
+	.header-area .logo a img {
+    	max-width: 150px;
+	}
+
+	.menu-area {
+   		align-items: center;
+	}
+	
+	.menu {
+		display: none;
+	}
+
+	.humburger {
+    	display: block;
+	}
+
+	.mobile-menu {
+		display: block;
+	}
+
+
+	.hero-overly {
+	    padding: 55px 0 30px;
+	}
+
+	.hero-section h1 {
+    	font-size: 45px;
+	}
+
+	.hero-section span {
+	    font-size: 18px;
+	}
+
+	.hero-section p {
+	    font-size: 24px;
+	    padding: 18px 0 18px;
+	}
+
+	.hero-section h3 {
+	    margin-bottom: 25px;
+	    height: 2px;
+	}
+
+	.arusha-city {
+    	padding: 35px 0 45px;
+	}
+
+	.arusha-city h2 {
+	    font-size: 34px;
+	    margin-bottom: 16px;
+	}
+
+	.arusha-city span {
+	    width: 66px;
+	    height: 4px;
+	    margin-bottom: 30px;
+	}
+
+	.arusha-left .arusha-box01 {
+	    top: 20px;
+	    left: -10px;
+	    width: 30px;
+	}
+
+	.arusha-left .arusha-box02 {
+	    bottom: 27px;
+	    right: -10px;
+	    width: 61px;
+	}
+
+	.arusha-right {
+		padding-top: 20px;
+		padding-left: 0;
+	}
+
+	.arusha-right p {
+    	font-size: 16px;
+    	line-height: 18.6px;
+	}
+	
+	.arusha-right p:nth-of-type(2) {
+		padding: 10px 0;
+	}
+
+	.arusha-debates {
+    	padding: 40px 0 45px;
+	}
+
+	.arusha-debates h2 {
+		font-size: 34px;
+		margin-bottom: 20px;
+	}
+
+	.arusha-debates span {
+		margin-bottom: 32px;
+		height: 4px;
+	}
+
+	.arusha-debates-lft p {
+	    font-size: 16px;
+	    line-height: 18.6px;
+	}
+
+	.arusha-debates-lft a {
+    	font-size: 16px;
+    	border-radius: 60px;
+    	padding: 14px 45px 15px;
+	}
+
+	.arusha-debates-lft p:last-of-type {
+    	margin-top: 10px;
+    	margin-bottom: 44px;
+	}
+
+	.arusha-debates-lft {
+    	padding-top: 20px;
+    	padding-right: 0;
+	}
+
+	.arusha-debates-right {
+		padding-left: 10px;
+	}
+
+	.arusha-debates-box {
+    	width: 72px;
+    	left: -9px;
+    	bottom: 33px;
+	}
+
+	.the-november {
+    	padding: 35px 0 45px;
+	}
+
+	.the-november h2 {
+		font-size: 34px;
+		margin-bottom: 21px;
+	}
+
+	.the-november span {
+		margin-bottom: 35px;
+		height: 4px;
+	}
+
+	.november-top-img {
+    	margin-bottom: 30px;
+    	padding: 0;
+	}
+
+	.november-top-img-box01 {
+    	top: 19px;
+    	left: -10px;
+    	height: 40px;
+
+	}
+
+	.november-top-img-box02 {
+		width: 54px;
+		height: auto;
+		right: 14px;
+		bottom: -16px;
+	}
+
+	.november-border {
+    	margin-top: 35px;
+    	margin-bottom: 30px;
+	}
+
+	.the-november p {
+    	font-size: 16px;
+	}
+
+	.the-november-left {
+	    padding-right: 0;
+	}
+	.the-november-right {
+	    padding-left: 0;
+	    margin-top: 15px;
+	}
+
+	.debate-format-left {
+		padding-right: 15px;
+		margin-bottom: 20px;
+	}
+
+	.debate-format-right {
+    	padding-left: 0;
+	}
+
+	.debate-format-box02 {
+    	width: 61px;
+    	top: 77px;
+    	right: -9px;
+	}
+
+	.debate-format-right h2 {
+	    margin-bottom: 10px;
+	}
+
+	.debate-format-right .debate-format-pera:first-of-type {
+		margin-bottom: 15px;
+		margin-top: 10px;
+	}
+
+	.debate-format-right p {
+	    font-size: 16px;
+	    line-height: 19px;
+	}
+
+	.debate-format-right .debate-format-pera h4 {
+		margin-right: 13px;
+		font-size: 28px;
+	}
+
+	.debate-format-box01 {
+    	width: 44px;
+    	bottom: 32px;
+    	left: -10px;
+	}
+
+	.why-the-debates {
+	    padding: 35px 0 25px;
+	}
+
+	.why-the-debates-left {
+	    padding-right: 0;
+	}
+
+	.why-the-debates-left h2 {
+	    font-size: 32px;
+	    margin-bottom: 15px;
+	}
+
+	.why-the-debates-left p {
+	    font-size: 16px;
+	    margin-bottom: 7px;
+	    line-height: 19px;
+	}
+
+	.why-the-debates-right {
+	    padding: 0 15px 0 0;
+	    margin-bottom: 20px;
+	}
+
+	.why-the-debates-box {
+	    bottom: 41px;
+	    right: -10px;
+	    width: 85px;
+	}
+
+	.our-partners {
+    	padding: 40px 0 50px;
+    	background: #ffffff;
+	}
+
+	.our-partners h2 {
+	    font-size: 38px;
+	    margin-bottom: 20px;
+	}
+
+	.our-partners .owl-carousel .owl-item img {
+    	max-height: 70px!important;
+	}
+
+	.our-partners .main-content .owl-theme .custom-nav .owl-next {
+    	right: -15px;
+	}
+
+	.footer-intrested-overly {
+		padding: 45px 0 60px;
+	}
+
+	.footer-intrested-left h2 {
+    	font-size: 32px;
+    	margin-bottom: 44px;
+    }
+
+    .footer-intrested-right a {
+	    font-size: 16px;
+	    padding: 15px 22px 16px 21px;
+	}
+
+	/*== contact-us page ==*/
+
+	.contactus-hero {
+    	padding: 70px 0;
+	}
+
+	.contactus-hero h2 {
+    	font-size: 38px;
+	}
+
+	.contactus-form {
+    	padding: 35px 0 45px;
+	}
+
+	.contactus-form h2 {
+	    font-size: 38px;
+	    margin-bottom: 15px;
+	}
+
+	.contactus-form-left {
+	    padding-right: 5px;
+	    margin-bottom: 20px;
+	}
+
+	.contactus-form-box01 {
+	    width: 44px;
+	    left: -10px;
+	    top: 30px;
+	}
+
+	.contactus-form-box02 {
+	    width: 66px;
+	    right: -10px;
+	    top: 321px;
+	}
+
+	.contactus-form-right {
+	    padding-left: 0;
+	}
+
+	.contactus-form-right form textarea {
+	    height: 223px;
+	    margin-bottom: 15px;
+
+	}
+
+	.contactus-form-right form button {
+    	padding: 12px 66px 13px 53px;
+	}
+
+	.contactus-form-right form input {
+    	padding: 12px 0 13px 20px;
+    	margin-bottom: 10px;
+	}
+
+	.contactus-footer {
+    	padding: 40px 0 50px;
+	}
+
+	.contactus-footer a {
+    	padding: 16px 41px 16px 41px;
+	}
+
+	.contactus-footer h2 {
+    	font-size: 48px;
+    	margin-bottom: 10px;
+	}
+
+	.contactus-footer p {
+	    margin-bottom: 35px;
+	}
+
+/*========================
+Events page start
+========================*/
+
+
+	.events-area {
+	    padding: 35px 0 45px;
+	}
+
+	.events-area h2 {
+    	font-size: 52px;
+	}
+
+	.events-area h4 {
+		margin-bottom: 35px;
+	}
+
+	.events-area ul {
+    	margin-bottom: 28px;
+	}
+
+	.events-area ul li a {
+    	padding: 14px 18px;
+	}
+
+	.events-area form {
+    	padding: 12px;
+	}
+
+	.events-area form input {
+    	width: 216px;
+	}
+
+	.events-area ul li:first-child a {
+    	margin-right: 8px;
+	}
+
+	.partner-with-us {
+    	padding: 70px 0;
+	}
+
+	.partner-with-us h2 {
+    	font-size: 38px;
+	}
+
+	.our-partners-form {
+    	padding: 35px 0 45px;
+	}
+
+	.our-partners-form h2 {
+	    font-size: 38px;
+	    margin-bottom: 15px;
+	}
+
+	.our-partners-form-left {
+	    padding-right: 5px;
+	    margin-bottom: 20px;
+	}
+
+	.our-partners-form-box01 {
+	    width: 44px;
+	    left: -10px;
+	    top: 30px;
+	}
+
+	.our-partners-form-box02 {
+	    width: 64px;
+	    right: -10px;
+	    top: 222px;
+	}
+
+	.our-partners-form-right {
+	    padding-left: 0;
+	}
+
+	.our-partners-form-right form textarea {
+	    height: 223px;
+	    margin-bottom: 15px;
+
+	}
+
+	.our-partners-form-right form button {
+    	padding: 12px 66px 13px 53px;
+	}
+
+	.our-partners-form-right form input {
+    	padding: 12px 0 13px 20px;
+    	margin-bottom: 10px;
+	}
+
+	.arusha-experience-hero {
+    	padding: 40px 0 45px;
+	}
+
+	.arusha-experience-hero h2 {
+	    font-size: 32px;
+	    margin-bottom: 20px;
+	}
+
+	.arusha-experience-hero span {
+	    width: 66px;
+	    height: 3px;
+	}
+
+	.arusha-experience-hero p {
+	    font-size: 16px;;
+	    margin-top: 20px;
+	    padding-right: 0;
+	    line-height: 19.6px;
+	}
+
+	.arusha-experience-hero-btm {
+		padding-bottom: 25px;
+		padding-top: 25px;
+	}
+
+	.arusha-experience-hero-btm-ctn span {
+		margin-bottom: 26px;
+		margin-top: 22px;
+		height: 4px;
+	}
+
+	.arusha-experience-hero-btm-ctn p {
+    	font-size: 16px;
+    	line-height: 20px;
+	}
+
+	.arusha-experience-hero-btm-left {
+		padding-right: 0;
+	}
+
+	.arusha-experience-hero-btm-left-box01 {
+    	bottom: 50px;
+    	left: -10px;
+    	width: 54px;
+	}
+
+	.arusha-experience-hero-btm-right h2 {
+		font-size: 32px;
+		margin-bottom: 10px;
+		
+	}
+
+	.arusha-experience-hero-btm-ctn a img {
+    	margin-bottom: 25px;
+	}
+
+	.arusha-experience-hero-btm-ctn p:first-of-type {
+    	margin-bottom: 15px;
+	}
+
+	.arusha-experience-hero-btm-right {
+		margin-top: 25px;
+	}
+
+	.arusha-experience-hero-btm-right p {
+    	font-size: 16px;
+    	line-height: 20px;
+    	margin-bottom: 10px;
+	}
+
+	.logistics-for-excursion {
+		padding: 35px 0;
+	}
+
+	.logistics-for-excursion-left {
+    	padding-right: 0;
+	}
+
+	.logistics-for-excursion-left h2 {
+		font-size: 32px;
+		margin-bottom: 10px;
+	}
+
+	.logistics-for-excursion-left p {
+		font-size: 16px;
+		line-height: 20px;
+	}
+
+	.logistics-for-excursion-left p:first-of-type {
+		margin-bottom: 18px;
+	}
+
+	.logistics-right-main {
+	    padding-left: 0;
+	    margin-bottom: 25px;
+	}
+
+	.logistics-right-possition {
+    	position: unset;
+	}
+
+	.logistics-for-excursion-right {
+    position: unset;
+	}
+
+	.logistics-for-excursion-box01 {
+    position: absolute;
+        width: 70px;
+    left: -9px;
+    top: 162px;
+    }
+
+    .logistics-for-excursion-box02 {
+        position: absolute;
+        width: 70px;
+        right: -9px;
+        bottom: 41px;
+    }
+
+    .correspondents-area {
+    	padding: 26px 0 39px;
+	}
+
+	.correspondents-left h2 {
+    	margin-bottom: 15px;
+    	font-size: 32px;
+	}
+
+	.correspondents-left ul li {
+		font-size: 16px;
+		line-height: 19px;
+	}
+
+	.correspondents-left span:first-of-type {
+	    margin-top: 15px;
+	    margin-bottom: 20px;
+	}
+
+	.correspondents-left span:nth-of-type(2) {
+    	margin-top: 15px;
+    	margin-bottom: 20px;
+	}
+
+	.experience-hero02 {
+		padding: 40px 0 50px;
+	}
+
+	.experience-hero02 h2 {
+    	font-size: 28px;
+    	margin-bottom: 15px;
+	}
+
+	.experience-hero02 .input-area {
+	    padding: 10px 0 10px 16px;
+	    border-radius: 32px;
+	    width: 70%;
+	    white-space: nowrap;
+	    margin-right: 5px;
+	}
+
+	.experience-hero02 button {
+		margin-right: 8px;
+	}
+
+	.experience-hero02 input {
+	    border: none;
+	    width: 80%;
+	}
+
+	@media screen and (max-width: 500px) {
+		.experience-hero02 .search-btn ul {
+		    left: unset;
+		    width: 142px;
+		    padding: 10px 10px 10px 12px;
+		    border-radius: 6px 0px 6px 6px;
+		    margin-top: 13px;;
+		    right: 0;
+		}
+	}
+
+	.experience-hero02 {
+		padding: 70px 0 50px;
+	}
+
+	.experience02-post {
+    	padding: 25px 0 40px;
+	}
+
+	.experience02-post01 {
+		padding: 15px 15px 20px 15px;
+		display: block;
+	}
+
+	.experience02-post02 {
+		padding: 15px 15px 20px 15px;
+		margin-top: 15px;
+		display: block;
+	}
+	.experience02-post03 {
+		padding: 15px 15px 20px 15px;
+		margin-top: 15px;
+		display: block;
+	}
+
+	.experience02-post-left h2 br {
+	    display: none;
+	}
+
+	.experience02-post-left h2 {
+	    font-size: 26px;
+	    margin-bottom: 20px;
+	    white-space: normal;
+	}
+
+	.experience02-post-left a {
+	    padding: 13px 18px 14px 14px;
+	    border-radius: 33px;
+	}
+
+	.experience02-post-right p {
+		font-size: 16px;
+		line-height: 20px;
+    	padding-left: 0;
+    	margin-top: 20px;
+	}
+
+	.experience02-post-btm ul {
+    	margin-top: 20px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
